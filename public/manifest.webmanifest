@@ -1,0 +1,21 @@
+{
+    "name": "Jishan Shaikh Portfolio",
+    "short_name": "Jishan Shaikh",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color" : "#fff",
+    "description": "Jishan Shaikh Portfolio Website",
+    "icons": [
+      {
+        "src": "./logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./logo192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }

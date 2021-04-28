@@ -86,7 +86,7 @@ const AboutComponent = () => {
                         </div>
                         <div>
                             <p className = {classes.desc} > 
-                                <b>Email : </b> shaikh.jishan@gmail.com
+                                <b>Email : </b> shaikh.jishan1997@gmail.com
                             </p>
                         </div>
                     </div>
